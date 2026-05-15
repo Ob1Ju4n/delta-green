@@ -13,4 +13,4 @@ El éxito en el campo depende de conocer las probabilidades. Aquí se detallan l
 * **Vida Social:** [[8 Vínculos y Relaciones|Gestión de Vínculos]] y [[9 Actividades Personales|Actividades entre Misiones]]
 
 ---
-[Volver al Inicio](/)
+[Volver al Inicio](/DG/)
