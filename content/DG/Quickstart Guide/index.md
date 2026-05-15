@@ -13,4 +13,4 @@ title: Guía de Inicio Rápido
 
 
 ---
-[Volver al Inicio](/DG/)
+[Volver al Inicio](/)
