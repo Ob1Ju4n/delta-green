@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Delta Green - Quickstart",
+    pageTitle: "Delta Green - Guía de Inicio",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
