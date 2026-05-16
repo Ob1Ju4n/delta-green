@@ -1,7 +1,7 @@
 ---
 title: Guía de Inicio Rápido
 ---
-## Secciones de la Guía
+## Contenido
 ## 1. [[DG/Quickstart-Guide/1-Start-Here|Comienza Aquí]]
 *Contiene la información referente al tipo de juego, tono y los roles*
 
