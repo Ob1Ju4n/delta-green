@@ -10,7 +10,3 @@ title: Guía de Inicio Rápido
 
 ## 3. [[DG/Quickstart-Guide/3-Sistema-de-Juego|Sistema de Juego]]
 *Detalla el sistema y las mecánicas del juego*
-
-
----
-[Volver al Inicio](/)
