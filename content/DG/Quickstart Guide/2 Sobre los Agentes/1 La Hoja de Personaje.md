@@ -26,6 +26,15 @@ Cada estadística tiene espacio para su calificación “×5”. Multiplica el v
 
 Cada estadística también tiene un espacio para “Rasgos Distintivos”. Si el valor es menor a 9 o mayor a 12, se destaca de alguna manera. Escribe un adjetivo o una breve descripción para ilustrarlo. Por ejemplo, si INT es 15, podrías poner “Muy inteligente”.
 
+| Stat         | 3–4           | 5–8     | 9–12      | 13–16          | 17–18         |
+| ------------ | ------------- | ------- | --------- | -------------- | ------------- |
+| Strength     | Feeble        | Weak    | (Average) | Muscular       | Huge          |
+| Dexterity    | Barely mobile | Clumsy  | (Average) | Nimble         | Acrobatic     |
+| Constitution | Bedridden     | Sickly  | (Average) | Perfect health | Indefatigable |
+| Intelligence | Imbecilic     | Slow    | (Average) | Perceptive     | Brilliant     |
+| Power        | Spineless     | Nervous | (Average) | Strong-willed  | Indomitable   |
+| Charisma     | Unbearable    | Awkward | (Average) | Charming       | Magnetic      |
+
 ### Atributos Derivados
 Los atributos derivados son valores que pueden cambiar. Los **Puntos de Golpe (HP)** indican la salud física. Los **Puntos de Voluntad (PV)** indican fortaleza mental y determinación. Los **Puntos de Cordura (SAN)** reflejan la conexión con la humanidad y la realidad tal como la percibe la mayoría de las personas.
 
@@ -42,7 +51,7 @@ Tu Agente comienza con cinco motivaciones: creencias personales, impulsos u obse
 Cada vez que la SAN alcanza el Punto de Quiebre, reemplaza una motivación por el nuevo trastorno mental de tu Agente.
 
 ### Pérdida de SAN sin Volverse Loco
-Hay tres casillas para **Violencia** y tres para **Impotencia**. Estas registran qué tan cerca está tu Agente de adaptarse psicológicamente a ese tipo de trauma. Si tu Agente pierde 1 o más SAN por Violencia o Impotencia pero no enloquece, marca la casilla correspondiente. Si tu Agente enloquece debido a ese tipo de trauma, borra todas las marcas. Consulta **Adaptándose a la Pérdida de Cordura** en la página 38 para más detalles.
+Hay tres casillas para **Violencia** y tres para **Impotencia**. Estas registran qué tan cerca está tu Agente de adaptarse psicológicamente a ese tipo de trauma. Si tu Agente pierde 1 o más SAN por Violencia o Impotencia pero no enloquece, marca la casilla correspondiente. Si tu Agente enloquece debido a ese tipo de trauma, borra todas las marcas. Consulta **[[6 Manteniendo la Cordura#**Adaptarse a la Pérdida de SAN**|Adaptárse a la Pérdida de SAN]]** para más detalles.
 
 ---
 
@@ -78,7 +87,7 @@ El Director (Handler) puede asumir que tu Agente posee el equipo típico de su p
 ### Armas  
 **“Skill %”** es el porcentaje de tu Agente con ese tipo de arma. Cópialo del frente de la hoja: Armas de Fuego, Armas Pesadas, Armas Cuerpo a Cuerpo, Combate Desarmado o lo que corresponda.
 
-Obtén las demás entradas del _Manual del Agente_:
+Obtén las demás entradas del _Manual del Agente_ o consulta a tu Handler:
 
 - **Alcance Base**: distancia a la que tu Agente puede usar el arma sin sufrir la penalización que reduce su habilidad.    
 - **Daño**: la cantidad de Puntos de Golpe que se restan al objetivo.    
@@ -103,8 +112,8 @@ Algunos conocimientos no son comunes a todos los Agentes pero tampoco requieren 
 
 Cada tipo de entrenamiento especial se basa en un stat o habilidad existente:
 
-- DEX para ganzúas.
-- Nadar para equipo de buceo.
-- Atletismo para paracaidismo o lanzar granadas.
+- **DEX** para ganzúas.
+- **Swim** para equipo de buceo.
+- **Athletics** para paracaidismo o lanzar granadas.
 
 Si el Director (Handler) indica que tu Agente tiene cierto entrenamiento especial, escríbelo en uno de los espacios junto con la habilidad o stat asociado.
