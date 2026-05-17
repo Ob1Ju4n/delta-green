@@ -1,7 +1,6 @@
 ---
 title: 1. La Hoja de Personaje
 ---
-
 ### Nombre
 ¿Cuál es el nombre de tu Agente? Los juegos de Delta Green funcionan mejor cuando se sienten anclados en el mundo real, así que haz que el nombre suene auténtico. Evita clichés y nombres ridículos.
 

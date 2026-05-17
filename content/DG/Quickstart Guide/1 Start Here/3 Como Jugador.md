@@ -20,7 +20,9 @@ Una manera de sumergirte en un juego como Delta Green es hablar con la voz de tu
 
 ### Trabaja con los demás jugadores  
 Como juego de rol, Delta Green es social. La forma en que te comportas en la mesa afecta la diversión de todos. Aquí se aplican las mismas reglas sociales que en cualquier conversación.  
+
 No hables por encima de otros jugadores ni trates de acaparar toda la atención. Ofrece ideas y sugerencias, pero no le digas a la gente que lo está haciendo mal.  
+
 Evita las discusiones. Si no estás de acuerdo con la decisión de otro jugador o con la interpretación del Guardián sobre las reglas, déjalo pasar. Si crees que es crítico, habla con el Guardián al respecto.
 
 ### Confía en el Guardián  
