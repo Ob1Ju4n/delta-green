@@ -14,21 +14,21 @@ Cuando sea tu turno, elige una acción:
 
 - **Apuntar (Aim):** +20% a tu próxima tirada de ataque.
     
-- **Atacar (Attack):** Inflige daño. Una tirada de ataque y daño representa normalmente una serie de golpes o dos o tres disparos con un arma. En combate cuerpo a cuerpo, atacar también incluye defensa personal; [[#**Tiradas de Defensa**|ver TIRADAS DE DEFENSA]].
+- **Atacar (Attack):** Inflige daño. Una tirada de ataque y daño representa normalmente una serie de golpes o dos o tres disparos con un arma. En combate cuerpo a cuerpo, atacar también incluye defensa personal; ver [[#**Tiradas de Defensa**|Tiradas de Defensa]].
     
 - **Disparo Dirigido (Called Shot):** Ignora cobertura o armadura pero con −20% de penalización (−40% para un disparo especialmente difícil).
     
-- **Desarmar (Disarm):** Tirada de Combate Cuerpo a Cuerpo para forzar al objetivo a soltar un arma u objeto. Incluye defensa personal; [[#**Tiradas de Defensa**|ver TIRADAS DE DEFENSA]].
+- **Desarmar (Disarm):** Tirada de Combate Cuerpo a Cuerpo para forzar al objetivo a soltar un arma u objeto. Incluye defensa personal; ver [[#**Tiradas de Defensa**|Tiradas de Defensa]].
     
-- **Esquivar (Dodge):** Tirada de Esquivar para oponerte a un ataque, desarme o inmovilización. [[#**Tiradas de Defensa**|ver TIRADAS DE DEFENSA]].
+- **Esquivar (Dodge):** Tirada de Esquivar para oponerte a un ataque, desarme o inmovilización. ver [[#**Tiradas de Defensa**|Tiradas de Defensa]].
     
 - **Escapar (Escape):** Salir de estar inmovilizado. Tira STR×5 o Combate Cuerpo a Cuerpo, lo que sea mejor. Actúa como tirada de defensa contra el personaje que te inmoviliza. Si la tirada tiene éxito, tu Agente deja de estar inmovilizado y esta tirada defiende contra otros ataques hasta tu próxima acción. Si falla, tu Agente sigue inmovilizado y no puede defenderse.
     
-- **Contraatacar (Fight Back):** Tirada de Armas Cuerpo a Cuerpo o Combate Cuerpo a Cuerpo para oponerte a un ataque. [[#**Tiradas de Defensa**|ver TIRADAS DE DEFENSA]].
+- **Contraatacar (Fight Back):** Tirada de Armas Cuerpo a Cuerpo o Combate Cuerpo a Cuerpo para oponerte a un ataque. ver [[#**Tiradas de Defensa**|Tiradas de Defensa]].
     
 - **Moverse (Move):** Trote 10 m., correr 20 m., o esprintar 30 m. (Normalmente, tu Agente puede recorrer ~3 m. como parte de otra acción).
     
-- **Inmovilizar (Pin):** Sujetar a alguien. Incluye defensa personal; [[#**Tiradas de Defensa**|ver TIRADAS DE DEFENSA]]. Tu Agente puede atacar al objetivo inmovilizado en turnos posteriores. Los ataques con Combate Cuerpo a Cuerpo o Armas Cuerpo a Cuerpo contra un objetivo inmovilizado tienen +20%. Un personaje inmovilizado no puede realizar acciones excepto intentar escapar. Mientras inmovilizas, decides si y cuándo el objetivo puede hablar.
+- **Inmovilizar (Pin):** Sujetar a alguien. Incluye defensa personal; ver [[#**Tiradas de Defensa**|Tiradas de Defensa]]. Tu Agente puede atacar al objetivo inmovilizado en turnos posteriores. Los ataques con Combate Cuerpo a Cuerpo o Armas Cuerpo a Cuerpo contra un objetivo inmovilizado tienen +20%. Un personaje inmovilizado no puede realizar acciones excepto intentar escapar. Mientras inmovilizas, decides si y cuándo el objetivo puede hablar.
     
 - **Esperar (Wait):** Actuar después de otra acción ese turno.
     
@@ -43,7 +43,7 @@ Esquivar y el combate cuerpo a cuerpo (Armas Cuerpo a Cuerpo o Combate Cuerpo a 
 - Para Esquivar o contraatacar, tu Agente debe **saber que viene un ataque** y ser físicamente capaz de bloquearlo o evadirlo. Un Agente inmovilizado o desprevenido no puede hacerlo.
     
 
-**ESQUIVAR (Dodge):**
+**Esquivar (Dodge):**
 
 - Se opone a todos los ataques cuerpo a cuerpo de ese turno.
     
@@ -54,7 +54,7 @@ Esquivar y el combate cuerpo a cuerpo (Armas Cuerpo a Cuerpo o Combate Cuerpo a 
 - Esquivar nunca inflige daño.
     
 
-**ATACAR O CONTRAATACAR:**
+**Atacar o Contraatacar:**
 
 - Se opone a cada ataque cuerpo a cuerpo de ese turno.
     

@@ -4,9 +4,9 @@ title: 1. Generalidades
 
 Las reglas de **Delta Green** son simples. 
 
-El Director describe la situación; tú dices qué está haciendo tu Agente; el Director decide si tienes éxito y qué pasa después.  
+El Director o _Handler_ describe la situación; tú dices como reacciona o qué hace tu Agente; el Director describe los resultados de las acciones dentro del contexto de la situación y lo qué pasa después.  
 
-Las reglas centrales del juego giran en torno a este último paso: ¿tienes éxito o no?
+Las reglas centrales del juego giran en torno a este último paso: ¿cual es el resultado de las decisiones?
 
 ### **¿Requiere una Habilidad o un Atributo?**
 
@@ -16,18 +16,19 @@ Las reglas centrales del juego giran en torno a este último paso: ¿tienes éxi
 
 ### **¿Requiere una Tirada?**
 
-- Si la situación es tranquila y tu Agente tiene tiempo para pensar, preguntar, planear y prepararse, probablemente no haga falta una tirada. El Director decide cuánto de habilidad o atributo es necesario ([[1 La Hoja de Personaje#Qué Representan las Calificaciones de Habilidad|ver Que Representan los Niveles de Habilidad]]). Si tu Agente no tiene lo suficiente, el Director puede decirte que alguien con más experiencia o talento podría resolverlo.
+- Si la situación es tranquila y tu Agente tiene tiempo para pensar, preguntar, planear y prepararse, probablemente no haga falta una tirada. El Director decide cuánto de habilidad o atributo es necesario (ver [[1 La Hoja de Personaje#Qué Representan las Calificaciones de Habilidad|Que Representan los Niveles de Habilidad]]). Si tu Agente no tiene lo suficiente, el Director puede decirte que alguien con más experiencia o talento podría resolverlo aunque un fallo suele acarrear una consecuencia.
 - Si es una crisis y todo se descontrola rápidamente, tira los dados.
 
 ### **Si debes tirar los dados**
 
-- Lanza dados de porcentaje para obtener un resultado de 01 a 100. Si sacas tu habilidad o menos (o tu atributo × 5 o menos), tu Agente tiene éxito. Si no, sufre las consecuencias.
+- Lanza dados de porcentaje para obtener un resultado de 01 a 100. Si sacas tu habilidad o menos (o tu atributo × 5 o menos), tu Agente tiene éxito. De lo contrario falla y tendrá que sufrir las consecuencias.
 - Si obtienes un éxito y los dados coinciden, o si sacas 01, es un **éxito crítico**: tu Agente logra el mejor resultado posible.
 - Si fallas y los dados coinciden, o si sacas 00 (100), es un **fallo crítico** o pifia: la acción fracasa y además tu Agente sufre otro perjuicio.
 
 ### **Tiradas Opuestas**
 
-¿Qué pasa si dos personajes usan habilidades en oposición directa?  
+¿Qué pasa si dos personajes usan habilidades en oposición directa? 
+
 Tal vez quieras oponerte a un ataque enemigo con la habilidad de Esquivar de tu Agente, o superar la Alerta de alguien con tu habilidad de Sigilo. Ambas partes tiran los dados como de costumbre.
 
 - Un **éxito crítico** vence a un éxito normal.
