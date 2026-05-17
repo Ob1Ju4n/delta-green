@@ -13,4 +13,4 @@ Bienvenido al programa. Antes de la primera operación, todo Agente debe conocer
 * [[5 Ejemplo de Juego|Transcripción de Sesión: Ejemplo de Juego]]
 
 ---
-[[DG/Quickstart-Guide|Volver al Inicio]]
+[[Quickstart Guide/index|Volver al Inicio]]

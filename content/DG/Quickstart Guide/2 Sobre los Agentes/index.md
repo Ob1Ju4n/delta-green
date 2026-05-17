@@ -13,4 +13,4 @@ Un Agente es solo tan bueno como su entrenamiento y tan resistente como su psiqu
 * [[2-1 Trasfondos Traumáticos (Guia del Agente)|Suplemento: Guía del Agente sobre Traumas]]
 
 ---
-[[DG/Quickstart-Guide|Volver al Inicio]]
+[[Quickstart Guide/index|Volver al Inicio]]

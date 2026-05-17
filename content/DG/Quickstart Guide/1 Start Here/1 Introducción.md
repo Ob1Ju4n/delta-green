@@ -8,4 +8,4 @@ Nacida de la redada de 1928 del gobierno de los EE. UU. en la degenerada ciudad 
 
 En **DELTA GREEN: EL JUEGO DE ROL**, tú eres uno de esos agentes. Eres a quien llaman cuando horrores antinaturales se filtran en el mundo. Luchas para evitar que el mal cósmico reclame vidas y cordura humanas. Conspiras para encubrirlo todo.
 
-[ver DG Onboarding](https://youtu.be/Albop3XB8-o?si=HlbONVjxvsZ7V4wl)
+_ver: [Delta Green Onboarding Video](https://youtu.be/Albop3XB8-o?si=HlbONVjxvsZ7V4wl)_
