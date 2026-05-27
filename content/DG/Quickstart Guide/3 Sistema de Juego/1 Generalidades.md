@@ -21,9 +21,9 @@ Las reglas centrales del juego giran en torno a este último paso: ¿cual es el 
 
 ### **Si debes tirar los dados**
 
-- Lanza dados de porcentaje para obtener un resultado de 01 a 100. Si sacas tu habilidad o menos (o tu atributo × 5 o menos), tu Agente tiene éxito. De lo contrario falla y tendrá que sufrir las consecuencias.
-- Si obtienes un éxito y los dados coinciden, o si sacas 01, es un **éxito crítico**: tu Agente logra el mejor resultado posible.
-- Si fallas y los dados coinciden, o si sacas 00 (100), es un **fallo crítico** o pifia: la acción fracasa y además tu Agente sufre otro perjuicio.
+- Lanza dos dados de 10 caras (dados de porcentaje), uno para las decenas y otro para las unidades. Obtendrás un resultado de 01 a 100. Si sacas tu habilidad o menos (o tu atributo × 5 o menos), tu Agente tiene éxito. De lo contrario falla y tendrá que sufrir las consecuencias.
+- Si obtienes un éxito y los dados coinciden (ej: 11, 22, 44), o si sacas 01, es un **éxito crítico**: tu Agente logra el mejor resultado posible.
+- Si fallas y los dados coinciden (ej: 11, 22, 44), o si sacas 00 (100), es un **fallo crítico** o pifia: la acción fracasa y además tu Agente sufre otro perjuicio.
 
 ### **Tiradas Opuestas**
 
@@ -39,9 +39,10 @@ Tal vez quieras oponerte a un ataque enemigo con la habilidad de Esquivar de tu 
 
 Cuando un personaje (o algo peor) quiere alcanzar a otro, se realizan **uno o más tests opuestos**: Conducción vs Conducción, Atletismo vs Atletismo, Natación vs Natación, lo que tenga sentido.
 
+- El Handler decide cuantas pruebas enfrentadas se requieren para resolver una persecución.
 - Un test opuesto produce una **persecución corta**.
-- En persecuciones más largas, un lado necesita dos éxitos. Las victorias se cancelan mutuamente.
-- Si la presa gana, aumenta su ventaja. El perseguidor debe ganar una vez para reducir la ventaja y otra para avanzar.
+- Para persecuciones más largas, un lado necesita dos éxitos. Las victorias se cancelan mutuamente.
+- Si la presa tiene éxito, aumenta su ventaja. El perseguidor debe ganar una vez para reducir la ventaja y otra para avanzar.
 - Solo en una persecución excepcionalmente larga se requieren **tres éxitos** para ganar.
 - Un **éxito crítico** cuenta como dos éxitos y un **fallo crítico** cuenta como dos fracasos.
 
@@ -51,9 +52,9 @@ A veces el Director pedirá una **tirada de Suerte**.
 
 - No depende de habilidad, talento ni fuerza de voluntad.
 - Solo tira dados de porcentaje.
-- Tienes un **50% de probabilidad de éxito**.
+- Tienes un **50% de probabilidad de éxito**. Es decir, con un resultado < 51, tu agente tiene éxito.
 
-### **Bonificadores y Penalizaciones**
+### **Bonificadóres y Penalizaciones**
 
 - En la mayoría de los casos, tira la habilidad o atributo base de tu Agente.
 - Si las circunstancias son excepcionalmente difíciles, aplica **−20%**.

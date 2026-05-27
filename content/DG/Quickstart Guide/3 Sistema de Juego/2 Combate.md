@@ -36,9 +36,9 @@ Cuando sea tu turno, elige una acción:
 
 ### **Tiradas de Defensa**
 
-Esquivar y el combate cuerpo a cuerpo (Armas Cuerpo a Cuerpo o Combate Cuerpo a Cuerpo) son pruebas que pueden proteger a tu Agente oponiéndose a las tiradas de ataque.
+Esquivar y el combate cuerpo a cuerpo (usando armas Cuerpo a Cuerpo o Combate Cuerpo a Cuerpo) son pruebas que pueden proteger a tu Agente oponiéndose a las tiradas de ataque.
 
-- Tu Agente puede **Esquivar o contraatacar** incluso antes de su turno por DEX. Si lo hace, esa será su **única acción del turno**. Un Agente que ya ha actuado no puede esquivar o contraatacar hasta el siguiente turno.
+- Tu Agente puede **Esquivar o contraatacar** incluso antes de su turno (orden de iniciativa determinado por su **DEX**). Si lo hace, esa será su **única acción del turno**. Un Agente que ya ha actuado no puede esquivar o contraatacar hasta el siguiente turno.
     
 - Para Esquivar o contraatacar, tu Agente debe **saber que viene un ataque** y ser físicamente capaz de bloquearlo o evadirlo. Un Agente inmovilizado o desprevenido no puede hacerlo.
     
